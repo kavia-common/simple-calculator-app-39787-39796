@@ -4,6 +4,7 @@
 #include <QHBoxLayout>
 #include <QFont>
 #include <QRegularExpression>
+#include <QSizePolicy>
 #include <cmath>
 
 // ---------------- CalculatorEngine ----------------

@@ -8,6 +8,7 @@
 #include <QPushButton>
 #include <QLineEdit>
 #include <QLabel>
+#include <QSizePolicy>
 
 /*
  Ocean Professional Theme
