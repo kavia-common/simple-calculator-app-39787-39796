@@ -40,4 +40,5 @@ add_custom_target(run
 
 enable_testing()
 
+# For this simple app, we keep a smoke test that launches the app binary.
 add_test(NAME ${PROJECT_NAME}Test COMMAND ${PROJECT_NAME})
