@@ -1,0 +1,4 @@
+{
+    "command": "cd build && ctest",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-calculator-app-39787-39796/calculator_native_app"
+}
